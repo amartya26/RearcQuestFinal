@@ -5,6 +5,8 @@ Final output with Secret word:
 SECRET_WORD is: Hello Team Rearc
 ![image](https://github.com/user-attachments/assets/07e57b78-ef6e-43d1-aa8f-9d927fd55296)
 
+
+
 AWS services used:
 VPC, Subnet, ALB, EC2, S3, DynamoDB
 
