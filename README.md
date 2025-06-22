@@ -1,5 +1,5 @@
 # RearcQuestFinal
-Assignment files for Rearc Quest
+Assignment files for Rearc Quest 
 
 This assignment provisions a highly available web infrastructure on AWS using Terraform code. 
 It deploys a node js Express app inside a Docker container hosted on an EC2 instance. 
